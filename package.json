@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-batonrouge",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Baton Rouge Open Data (data.brla.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-797f960f76f24820e06feebe7494e4a784703df7b1974346ffd6a3461ee2563e",
-    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
+    "sourceHash": "v1-d888877849e15e9224a18c6e7cbcd3937f82b356d6bb04ea7575a0c4424f7f87",
+    "sourceCommit": "ba9dd6df5992aeb16ef2425ee86d1752c34ca636"
   }
 }
